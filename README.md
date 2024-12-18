@@ -1,0 +1,2 @@
+# afc_auto_comment_teacher
+为安徽财贸职业技术学院教务系统中教学评价自动评价
