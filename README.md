@@ -26,8 +26,8 @@ pip install selenium
    在脚本中找到以下行，并用你的用户名和密码替换相应的值：
 
    ```python
-   username = '23000392'
-   password = 'g2833725924.'
+   username = ''
+   password = ''
    ```
 
 2. **运行脚本**：
